@@ -1,2 +1,5 @@
-# practica-de-repositorio
-intento de realizar un repositorio solo
+carlos rodriguez
+
+vamos por todo!!
+
+prueba de clonar desde gitbat a escritorio local
